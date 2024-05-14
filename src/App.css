@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #FAF9F6;
+  align-items: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+#standard-basic {
+  margin-right: 10px;
+}
+
+#sub-button {
+  color: black;
+}
+
+.hourly-container {
+  display: flex;
+  flex-direction: row;
+  max-height: 260px;
+  overflow-x:auto;
+  overflow-y: hidden;
+}
+
+.hourly {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.curr-container {
+  align-self: center;
+  margin-left: 25%;
+}
